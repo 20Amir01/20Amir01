@@ -4,7 +4,7 @@
 <h3 align="center">📱You can follow me from : </h3>
 <!-- <p align="center">⬇</p> -->
 <p align="center" width="100%">
-<a href="https://www.linkedin.com/in/amirmohammad-hemmati-bb7156278"><img align="center" height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"/></a><a href="https://instagram.com/20amirmohammad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="20amirmohammad01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/20amir01/"><img align="center" height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"/></a><a href="https://instagram.com/20amirmohammad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="20amirmohammad01" height="30" width="40" /></a>
 </p>
 <p align=center>📩My email address is : <b>20amhs00@gmail.com</b></p>
 <h3 align="center">Languages and Tools</h3>
