@@ -1,7 +1,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=20amir01&label=Profile%20views&color=0e75b6&style=flat" alt="20amir01" /> </p> -->
 <img src="./github-banner.gif" width="100%"/>
-<p> Junior Front-end developer and computer engineering student💻</p>
-<p align="left">📚I’m currently learning <a href="https://nextjs.org/"><b>Next.js</b></a> framework</p>
+<p align="left"><b>Junior Front-end developer and computer engineering student 💻</b></p>
+<br/>
+<p align="center">📚I’m currently learning <a href="https://nextjs.org/"><b>Next.js</b></a> framework</p>
 <!-- <p align="center">⬇</p> -->
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
