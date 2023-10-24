@@ -1,6 +1,6 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=20amir01&label=Profile%20views&color=0e75b6&style=flat" alt="20amir01" /> </p> -->
 <img src="./github-banner.gif" width="100%"/>
-<p align="left"><b>Junior front-end developer and computer engineering student 💻</b></p>
+<p align="left"><b>Front-end developer and computer engineering student 💻</b></p>
 <br/>
 <p align="center">📚I’m currently learning <a href="https://nextjs.org/"><b>Next.js</b></a> framework</p>
 <!-- <p align="center">⬇</p> -->
